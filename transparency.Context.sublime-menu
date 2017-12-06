@@ -1,0 +1,14 @@
+[
+{
+	"id" : "Transparency",
+	"caption": "Transparency",
+	"children": 
+	[
+	{
+		"caption" : "foo", 
+		"command" : "bar",
+		"keys" : ["super+ctrl+1"]
+	}
+	]
+}
+]
